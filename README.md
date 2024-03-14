@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm walid fawzy mohamed</h1>
 <h3 align="center">A frontend developer</h3>
+<h2>As a beginner in programming, I have acquired proficiency in a range of programming languages, including JavaScript, CSS, and HTML. My expertise extends to utilizing libraries such as React and Redex effectively. Furthermore, I am competent in handling APIs, enabling seamless integration into web development projects. With a solid foundation in these languages and libraries, along with API management skills, I am well-equipped to contribute meaningfully to diverse programming endeavors.</h2>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
